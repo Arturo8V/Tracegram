@@ -47,4 +47,5 @@ Before running the command, make sure you’ve added your Instagram cookies
 git clone https://github.com/Arturo8V/tracegram.git
 cd tracegram
 pip install -e .
-tracegram -o origin_user -t target_user
+python3 checker.py -o tinderu_tad -t cristiano
+
