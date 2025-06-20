@@ -36,7 +36,7 @@ Your cookie file should be placed in:
 ```bash
   tracegram/cookies/instagram_cookies.json
   I've included a template file. Just replace the "value" fields with your actual Instagram session cookies.
-
+```bash
 
 
 ## 📦 Installation
