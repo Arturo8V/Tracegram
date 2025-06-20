@@ -3,21 +3,24 @@
 
 **Tracegram** te permite saber si un usuario es seguido por los seguidos de otro. Útil para OSINT, análisis de redes o curiosidad investigadora.
 
+**Tracegram** lets you identify whether a given target user is followed by any of the accounts that a source user follows. Perfect for OSINT, social graph analysis, or investigative curiosity.
+
+
 ## ⚙️ Requisitos
 
 - Python 3.8+
-- Cookies válidas de Instagram (exportadas manualmente)
-- Cuenta de Instagram iniciada (para generar las cookies)
+- 
+- Valid Instagram session cookies (exported manually)
+- A logged-in Instagram account (to generate cookies)
+- 
 
----
+## 📦 Installation
 
-## 📦 Instalación
-
-1. **Clona el repositorio:**
+Clone the repository:
 
 ```bash
-git clone https://github.com/tu_usuario/instagram-cli-checker.git
-cd instagram-cli-checker
+git clone https://github.com/your_user/tracegram.git
+cd tracegram
 
 ## 🚀 Uso
 
