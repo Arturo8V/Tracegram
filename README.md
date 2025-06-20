@@ -41,6 +41,8 @@ Your cookie file should be placed in:
 
 ## 📦 Installation
 
+Before running the command, make sure you’ve added your Instagram cookies 
+
 ```bash
 git clone https://github.com/Arturo8V/tracegram.git
 cd tracegram
