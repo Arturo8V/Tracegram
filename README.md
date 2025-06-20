@@ -42,7 +42,7 @@ Your cookie file should be placed in:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/youruser/tracegram.git
+git clone https://github.com/Arturo8V/tracegram.git
 cd tracegram
 pip install -e .
 tracegram -o origin_user -t target_user
