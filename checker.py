@@ -6,7 +6,7 @@ import argparse
 from typing import List
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-cookies_path = os.path.join(script_dir, "instagram_cookies.json")
+cookies_path = os.path.join(script_dir, "cookies", "instagram_cookies.json")
 
 def load_cookies():
     if not os.path.exists(cookies_path):
