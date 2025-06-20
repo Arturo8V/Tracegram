@@ -1,0 +1,12 @@
+[
+  {
+    "domain": ".instagram.com",
+    "name": "sessionid",
+    "value": "PUT_YOUR_SESSIONID_HERE"
+  },
+  {
+    "domain": ".instagram.com",
+    "name": "ds_user_id",
+    "value": "PUT_YOUR_DS_USER_ID_HERE"
+  }
+]
