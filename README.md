@@ -36,6 +36,7 @@ Copy their values and paste them into a file called instagram_cookies.json.
 
 ## 📦 Installation
 
+```bash
 git clone https://github.com/youruser/tracegram.git
 cd tracegram
 pip install -e .
