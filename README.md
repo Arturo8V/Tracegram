@@ -1,4 +1,4 @@
-# 🕵️ Tracegram – Instagram OSINT CLI Tool
+# 🕵️ Tracegram – Instagram OSINT Tool
 
 
 **Tracegram** te permite saber si un usuario es seguido por los seguidos de otro. Útil para OSINT, análisis de redes o curiosidad investigadora.
