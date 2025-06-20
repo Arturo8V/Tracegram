@@ -17,21 +17,26 @@ Tracegram uses your browser session cookies to authenticate with Instagram. This
 Without valid cookies, the tool won’t work.
 
 🧭 How to Get the Cookies
-Open https://www.instagram.com in your desktop browser (Chrome recommended).
+  Open https://www.instagram.com in your desktop browser (Chrome recommended).
 
-Make sure you're logged in with the Instagram account you want to use.
+  Make sure you're logged in with the Instagram account you want to use.
 
-Press F12 or right-click → Inspect to open Developer Tools.
+  Press F12 or right-click → Inspect to open Developer Tools.
 
-Go to the tab: Application → expand Cookies → click https://www.instagram.com
+  Go to the tab: Application → expand Cookies → click https://www.instagram.com
 
-In the list of cookies shown, locate:
+  In the list of cookies shown, locate:
 
-sessionid
+  sessionid
 
-ds_user_id
+  ds_user_id
 
-Copy their values and paste them into a file called instagram_cookies.json.
+Your cookie file should be placed in:
+
+```bash
+  tracegram/cookies/instagram_cookies.json
+  I've included a template file. Just replace the "value" fields with your actual Instagram session cookies.
+
 
 
 ## 📦 Installation
