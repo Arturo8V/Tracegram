@@ -5,6 +5,9 @@
 
 **Tracegram** lets you identify whether a given target user is followed by any of the accounts that a source user follows. Perfect for OSINT, social graph analysis, or investigative curiosity.
 
+Uso para fines educativos, el autor no se hace responsable del uso de esta herramienta.
+Use for educational purposes, the author is not responsible for the use of this tool.
+
 
 ## ⚙️ Requirements
 
