@@ -51,5 +51,5 @@ Before running the command, make sure you’ve added your Instagram cookies
 git clone https://github.com/Arturo8V/tracegram.git
 cd tracegram
 pip install -e .
-python3 checker.py -o tinderu_tad -t cristiano
+python3 checker.py -o messi -t cristiano
 
