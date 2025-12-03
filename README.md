@@ -48,7 +48,7 @@ Your cookie file should be placed in:
 Before running the command, make sure you’ve added your Instagram cookies 
 
 ```bash
-git clone https://github.com/Arturo8V/tracegram.git
+git clone https://github.com/Arturo8V/tracegram.git ( error: externally-managed-environment ->>>>> sudo rm -rf /usr/lib/python3.11/EXTERNALLY-MANAGED )
 cd tracegram
 pip install -e .
 python3 checker.py -o messi -t cristiano
